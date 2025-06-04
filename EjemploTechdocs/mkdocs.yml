@@ -1,0 +1,8 @@
+site_name: Ejemplo-deploy-Techdocs
+site_description: Esto es un ejemplo de despliegue
+
+plugins:
+  - techdocs-core
+
+nav:
+ - Mensaje: index.md
