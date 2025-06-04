@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: Ejemplo-deploy-techdocs
   description: The place to be, for great artists
-  annotation:
+  annotations:
     backstage.io/-ref: dir:.
 spec:
   type: service
